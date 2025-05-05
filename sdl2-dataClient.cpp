@@ -175,7 +175,7 @@ int main(int argc, char* argv[]) {
                 }
             }
             SDL_Delay(40);
-		}
+	}
     }
 
     if (joystick) SDL_JoystickClose(joystick);
